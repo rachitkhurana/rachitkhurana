@@ -3,7 +3,7 @@ Ul Craftsman Ultra Pro Max | Frontend Lead @ Ultrahuman<br>I turn caffeine into 
 
 *To see where i really commit, head over to my work github.*
 
-[![Work Github](https://img.shields.io/badge/Work%20account-181717?style=flat&logo=github&logoColor=white)]([https://github.com](https://github.com/rachit-ultrahuman))
+[![Work Github](https://img.shields.io/badge/Work%20account-181717?style=flat&logo=github&logoColor=white)](https://github.com/rachit-ultrahuman)
 
 
 ## 🌐 Socials:
